@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:960/0*nFNiujsPqNZUtmcs.png)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:960/0*nFNiujsPqNZUtmcs.png)
 <h1 align="center">Hi 👋, I'm Aswin Deivanayagam</h1>
 <h3 align="center">Data-Driven | Code-Fueled | AI-Inspired</h3>
 
